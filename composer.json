@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "services": "/ServiceDataProvider"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    }
+}

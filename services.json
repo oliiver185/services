@@ -1,0 +1,56 @@
+[
+    {
+        "Ref": "APPLAB1",
+        "Centre": "Aperture Science",
+        "Service": "Portal Technology",
+        "country_code": "fr"
+    },
+    {
+        "Ref": "BLULAB1",
+        "Centre": "Blue Sun Corp",
+        "Service": "Behaviour Modification",
+        "country_code": "fr"
+    },
+    {
+        "Ref": "BMELAB1",
+        "Centre": "Black Mesa",
+        "Service": "Interdimensional Travel",
+        "country_code": "de"
+    },
+    {
+        "Ref": "WEYLAB1",
+        "Centre": "Weyland Yutani Research",
+        "Service": "Xeno-biology",
+        "country_code": "gb"
+    },
+    {
+        "Ref": "BLULAB3",
+        "Centre": "Blue Sun R&D",
+        "Service": "Behaviour Modification",
+        "country_code": "cz"
+    },
+    {
+        "Ref": "BMELAB2",
+        "Centre": "Black Mesa Second Site",
+        "Service": "Interdimensional Travel",
+        "country_code": "de"
+    },
+    {
+        "Ref": "TYRLAB1",
+        "Centre": "Tyrell Research",
+        "Service": "Synthetic Consciousness",
+        "country_code": "gb"
+    },
+    {
+        "Ref": "BLULAB2",
+        "Centre": "Blue Sun Corp",
+        "Service": "Behaviour Modification",
+        "country_code": "it"
+    },
+    {
+        "Ref": "TYRLAB2",
+        "Centre": "Tyrell Research",
+        "Service": "Synthetic Optics",
+        "country_code": "pt"
+    }
+]
